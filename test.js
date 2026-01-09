@@ -7,3 +7,6 @@ const persons = [
 console.log(persons.map((p) => {
   return [p.firstname, p.lastname].join(" ");
 }));
+
+
+AAAAAAAAAAAAAAAAAA
